@@ -1,4 +1,4 @@
-[![name](https://raw.githubusercontent.com/rmsrob/NextJs-deep-validation-form/master/styles/app.png)]
+![name](https://raw.githubusercontent.com/rmsrob/NextJs-deep-validation-form/master/styles/app.png)
 
 # NextJs Form Validation Example
 
