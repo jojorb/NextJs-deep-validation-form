@@ -1,0 +1,38 @@
+{
+  "FR": {
+    "title": "NextJs validation des données",
+    "subtitle": "Introduction à la validation des données et leurs échangent entre votre navigateur et un sitweb.",
+    "mini_subtitle": "Tous les données affichées dans cette page ne sont pas sauvgardées, voir le code source ici.",
+    "phone": "Téléphone",
+    "help_phone": "Vérification du format de l'email et si il est existant et joignable.",
+    "email": "Mail",
+    "help_email": "Vérification du format international et de la probable existence du numéro.",
+    "hold_email": "john@wick.com",
+    "fristname": "Prénom",
+    "help_firstname": null,
+    "lastname": "Nom",
+    "help_lastname": null,
+    "password": "Mot de passe",
+    "help_password": "Vérification simple du mot de passe, nombre de caractères nim 8 et max 127.",
+    "btn_from_osnint": "RECHERCHE OSINT",
+    "help_default": "Pas de vérification pour le moment"
+  },
+  "US": {
+    "title": "NextJs form validation",
+    "subtitle": "Introduction to data validation and attemp to gather public infos on some sevral open source API.",
+    "mini_subtitle": "Data rendered on this page will not be saved, check the source code here.",
+    "phone": "Phone",
+    "help_phone": "email format checking and if avaible and reachable.",
+    "email": "Email",
+    "help_email": "Checking internamtion format and if plaussible.",
+    "hold_email": "john@wick.com",
+    "fristname": "Firstname",
+    "help_firstname": null,
+    "lastname": "Lastname",
+    "help_lastname": null,
+    "password": "Password",
+    "help_password": "Very simple check of the password length, character nim 8 max 127.",
+    "btn_from_osnint": "OSINT SEARCH",
+    "help_default": "No cheching for now"
+  }
+}

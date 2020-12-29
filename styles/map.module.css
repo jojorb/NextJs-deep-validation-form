@@ -1,0 +1,10 @@
+.pinMapbox {
+    width: 42px;
+    height: 34px;
+  }
+  .pinMapbox svg {
+    width: 100%;
+    height: 100%;
+    transform: translate(-21px, -21px);
+    cursor: pointer;
+  }
