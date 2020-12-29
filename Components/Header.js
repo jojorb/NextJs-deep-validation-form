@@ -1,6 +1,6 @@
 /* eslint-disable react/jsx-filename-extension */
 import { ExternalLinkIcon } from '@chakra-ui/icons';
-import { Box, Text, Heading, Center, IconButton } from '@chakra-ui/react';
+import { Box, Text, Heading, Center } from '@chakra-ui/react';
 import translation from '../tools/translation.json';
 
 export const Header = country => {
@@ -17,10 +17,15 @@ export const Header = country => {
         <Text fontSize="xl">{translate.subtitle}</Text>
       </Center>
       <Center>
-        <Text fontSize="sm">{translate.mini_subtitle} 
-        <a target="_blank" href="https://github.com/rmsrob/NextJs-deep-validation-form">
-          <ExternalLinkIcon h={4} w={4} />
-        </a>
+        <Text fontSize="sm">
+          {translate.mini_subtitle}
+          <a
+            target="_blank"
+            rel="noreferrer"
+            href="https://github.com/rmsrob/NextJs-deep-validation-form"
+          >
+            <ExternalLinkIcon h={4} w={4} />
+          </a>
         </Text>
       </Center>
     </Box>
